@@ -1,0 +1,13 @@
+
+path: /content/YOLO/images/  # dataset root dir
+train: /content/YOLO/images/train  # train images (relative to 'path') 128 images
+val: /content/YOLO/images/val  # val images (relative to 'path') 128 images
+
+
+# Classes
+nc : 1
+names:
+  0: cat
+ 
+
+
